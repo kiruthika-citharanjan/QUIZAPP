@@ -7,7 +7,7 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Quiz from "./components/Quiz";
 import Result from "./components/Result";
-
+//redeploy
 function App() {
   const [darkMode, setDarkMode] = useState(false);
   const [soundOn, setSoundOn] = useState(true);
